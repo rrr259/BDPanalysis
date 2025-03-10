@@ -122,7 +122,7 @@ groups <- list('OCT4_untreated' = 1:15,
   RPM_normal <- RPM_normal %>% 
     mutate(Geneid_base = gsub('_2$|_3$','', Geneid_RPM)) 
 
- # Craeting kist for rankings of each group 
+ # Craeting list to rank each group 
 ranking_tables <- list()
 
 #Counts will be set to not be less then 10, change manually if need more/less
