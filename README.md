@@ -1,6 +1,6 @@
 # BDPanalysis
 
-BDPanalysis is a bioinformatics workflow for preparing RNA-seq data and analysing bidirectional promoter activity. The project combines a Python data-processing pipeline with an R Markdown downstream analysis.
+BDPanalysis is a workflow for preparing RNA-seq data and analysing bidirectional promoter activity. The project combines a Python data-processing pipeline with an R Markdown downstream analysis.
 
 ## Repository contents
 
