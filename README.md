@@ -1,6 +1,6 @@
 # BDPanalysis
 
-The project combines a Python data-processing pipeline with an R Markdown downstream analysis to create a catalogue of bidirectional promoters. The data for this research was taken from the Gene Expression Omnibus (GEO) database via series GSE87821, provided by King and Klose 2017.
+The project combines a Python data-processing pipeline with an R  downstream analysis to create a catalogue of bidirectional promoters. The data for this research was taken from the Gene Expression Omnibus (GEO) database via series GSE87821, provided by King and Klose 2017.
 
 ## Repository contents
 
